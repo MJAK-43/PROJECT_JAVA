@@ -12,7 +12,7 @@ Prenom: Andy Karl
 ---
 1-a) Besoins fonctionnels
 ---
---création d'un client
+- création d'un client
 -editer un client
 -supprimer un client
 -consulter les details d'un client 
