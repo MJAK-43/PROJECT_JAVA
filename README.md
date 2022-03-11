@@ -2,12 +2,14 @@
 projet_java_semestre_2
 
 #-------STUDENT-------- 
-Nom: MBONING JOKUNG
-Prenom: Andy Karl
-#----------------------
+---
+
+- Nom: MBONING JOKUNG
+- Prenom: Andy Karl
+
 
 #-----------EXERCICE ATTEINT------------#
-
+---
 1-) CLIENTS
 ---
 1-a) Besoins fonctionnels
